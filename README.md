@@ -3,7 +3,7 @@
 
 ### How it Works
 Users can browse different pictures by clicking the "previous" and "next" buttons. As shown below.
-![screenshot1](https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot1.png)
+<img src="https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot1.png" width="200" height="200">
 
 When users reach the last picture, the "next" button is disabled. Likewise, the "previous" button is disabled at the first picture.
 ![screenshot2](https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot2.png)

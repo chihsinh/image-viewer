@@ -3,10 +3,10 @@
 
 ### How it Works
 Users can browse different pictures by clicking the "previous" and "next" buttons. As shown below.
-//screenshot 1
+![screenshot1](https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot1.png)
 
 When users reach the last picture, the "next" button is disabled. Likewise, the "previous" button is disabled at the first picture.
-//screenshot 2
+![screenshot2](https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot2.png)
 
 A loading gif shows if images do not load immediately.
-//screenshot 3
+![screenshot3](https://raw.githubusercontent.com/kanapki/image-viewer/master/screenshots/screenshot3.png)

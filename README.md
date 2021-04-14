@@ -1,5 +1,5 @@
 ## Image Viewer
-**An assignment of Web Programming, a course by Professor Ric Huang in NTU.** A practice on JavaScript.
+**An assignment of Web Programming (2021 spring), a course by Professor Ric Huang in NTU.** A practice on JavaScript.
 
 ### How it Works
 Users can browse different pictures by clicking the "previous" and "next" buttons. As shown below.

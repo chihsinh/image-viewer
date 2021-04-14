@@ -1,5 +1,5 @@
 ## Image Viewer
-**An assignment of Web Programming, a course by Professor Ric Huang in NTU.** The file 'images', and styles.css are provided by the Professor Huang and the TAs of Web Programming in NTU.
+**An assignment of Web Programming, a course by Professor Ric Huang in NTU.** A practice on JavaScript.
 
 ### How it Works
 Users can browse different pictures by clicking the "previous" and "next" buttons. As shown below.
@@ -18,6 +18,8 @@ A loading gif shows if images do not load immediately.
 </p>
 
 ### References
+The file 'images', and styles.css are provided by the Professor Huang and the TAs of Web Programming in NTU.  
+
 Photo1 by <a href="https://unsplash.com/@jaffrix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Syed Fahim Haider</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
 
 Photo2 by <a href="https://unsplash.com/@kirsimakov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kir Simakov</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
